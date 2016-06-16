@@ -8,8 +8,9 @@ Easy Case MPAndroidChart
 ##Article
   https://www.numetriclabz.com/android-line-chart-using-mpandroidchart-tutorial/
 ##TroubleShoot
-  [add MPAndroidChart]  http://stackoverflow.com/questions/16608135/android-studio-add-jar-as-library
-  [download MPAndroidChart.jar]  https://github.com/PhilJay/MPAndroidChart/releases
+  [_add MPAndroidChart_]  http://stackoverflow.com/questions/16608135/android-studio-add-jar-as-library   
+  
+  [_download MPAndroidChart.jar_]  https://github.com/PhilJay/MPAndroidChart/releases
   
 
   
