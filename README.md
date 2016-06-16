@@ -1,13 +1,13 @@
 Easy Case MPAndroidChart
 
-Why
+##Why
   for the new to android studio,
   for the quick start MPAndroidChart.
-Need
+##Need
   android studio
-Article
+##Article
   https://www.numetriclabz.com/android-line-chart-using-mpandroidchart-tutorial/
-TroubleShoot
+##TroubleShoot
   [add MPAndroidChart]  http://stackoverflow.com/questions/16608135/android-studio-add-jar-as-library
   [download MPAndroidChart.jar]  https://github.com/PhilJay/MPAndroidChart/releases
   
