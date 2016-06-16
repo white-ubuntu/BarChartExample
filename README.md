@@ -10,7 +10,9 @@ Easy Case MPAndroidChart
 ##TroubleShoot
   [_add MPAndroidChart_]  http://stackoverflow.com/questions/16608135/android-studio-add-jar-as-library   
   
-  [_download MPAndroidChart.jar_]  https://github.com/PhilJay/MPAndroidChart/releases
+  [_download MPAndroidChart.jar_]  https://github.com/PhilJay/MPAndroidChart/releases  
   
+##ShowGif
+   ![BarChartExample](doc/gif/BarChartExample.gif)
 
   
